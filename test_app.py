@@ -1,5 +1,3 @@
-from urllib import response
-
 
 def test_index_route(api):
 
