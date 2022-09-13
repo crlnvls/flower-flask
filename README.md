@@ -1,6 +1,6 @@
 # Flower Website
 
-A site for all your petal-related needs
+A simple site for all your petal-related needs using Flask
 
 ## Installation & development
 
