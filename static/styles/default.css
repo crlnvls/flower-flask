@@ -1,0 +1,16 @@
+body {
+  background-color: #121212;
+  color: aliceblue;
+  text-align: center;
+}
+
+.flower-bed {
+  display: flex;
+  justify-content: space-between;
+}
+
+.flower {
+  border-radius: 5px;
+  padding: 1rem;
+  cursor: pointer;
+}
